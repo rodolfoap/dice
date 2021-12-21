@@ -23,6 +23,7 @@ apt install build-essential qt4-default libsdl-dev libxi-dev unzip
 
 ## 4. Build
 ```
+unzip dice.0.9.src.zip
 make
 ```
 
