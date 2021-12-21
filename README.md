@@ -1,6 +1,6 @@
 # DICE: Discrete Integrated Circuit Emulator
 
-Here's the last version, compiled, and the process used to compile.
+Here's the last version, compiled, and the process used to compile. Find the original here: https://sourceforge.net/projects/dice/
 
 ## 1. Launch Ubuntu Trusty
 
